@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "624707700669",
+    "firebase_url": "https://pujasearch.firebaseio.com",
+    "project_id": "pujasearch",
+    "storage_bucket": "pujasearch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624707700669:android:7af6596f4afa2a27",
+        "android_client_info": {
+          "package_name": "com.example.adibauliar.pujasearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624707700669-34i0ohv9mgcaac42n8c657olgaegma13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adibauliar.pujasearch",
+            "certificate_hash": "8087b24eab2cf738e596a8fe170569a00611d60b"
+          }
+        },
+        {
+          "client_id": "624707700669-ia7uj8e7n4k197b9o96t932gd28sudsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{ "current_key": "" }],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624707700669-ia7uj8e7n4k197b9o96t932gd28sudsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
